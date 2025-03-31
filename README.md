@@ -11,10 +11,13 @@ $$
 Known as the Basel Problem, it perplexed Europe’s brightest minds for nearly a century, its answer hovering just out of reach—until Leonhard Euler, in 1735, dropped a bombshell that turned bewilderment into awe: the sum was 
 $\frac{\pi^2}{6}$.  
 
-
 ![pi-sq-over-6](images/pi-sq-over-6.png)  
 
 To plot the curve in Python, use the following code, [View `pi-sq-over-6.py`](Python/pi-sq-over-6.py).  
+
+![basel_problem_convergence.gif](media/basel_problem_convergence.gif)  
+
+To plot the animation, use the following code, [View `pi-sq-over-6-animation.py`](Python/pi-sq-over-6-animation.py).    
 
 The sudden appearance of π, the circle’s constant, in this arithmetic puzzle about squares left mathematicians reeling, revealing a hidden connection that no one saw coming and forever altering their view of the mathematical landscape.  
 The Basel Problem, first posed by Pietro Mengoli in 1644, was a tantalizing enigma. Unlike the harmonic series:  
