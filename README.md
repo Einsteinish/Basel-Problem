@@ -397,5 +397,7 @@ Pretty amazing when you think about it!
 
 GitHub Link: https://github.com/Einsteinish/Basel-Problem
 
+[Watch the Youtube video here](https://youtu.be/e3NItMtR9OY)
 
+[![YouTube Video Thumbnail](https://img.youtube.com/vi/e3NItMtR9OY/0.jpg)](https://www.youtube.com/watch?v=e3NItMtR9OY)
 ---
