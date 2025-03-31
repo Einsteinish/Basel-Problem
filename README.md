@@ -347,6 +347,8 @@ This result is not just a curiosity—it’s a cornerstone of analysis, number t
 
 ## Script
 
+GitHub Link: https://github.com/Einsteinish/Basel-Problem
+
 Think about adding up numbers like 1, a quarter, a ninth, a sixteenth, and so on forever.   
 Just a series of fractions that keep getting smaller. No circles, no angles, nothing fancy.   
 Any guess what this sum equals? 
@@ -393,4 +395,5 @@ From adding up fractions to quantum physics, π keeps showing up in surprising p
 The Basel Problem shows that π isn't just about circles—it's much more fundamental to mathematics than that.   
 Pretty amazing when you think about it!
 
+GitHub Link: https://github.com/Einsteinish/Basel-Problem
 ---
