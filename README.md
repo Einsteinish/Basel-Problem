@@ -141,6 +141,10 @@ where $a_n$ and $b_n$ are Fourier coefficients.
 
 #### Example: The Sawtooth Wave
 
+![fourier_sawtooth_basel_loopforever.gif](media/fourier_sawtooth_basel_loopforever.gif)  
+
+To plot the curve in Python, use the following code, [View `sawtooth.py`](Python/sawtooth.py).  
+
 Consider the odd function $f(x) = x \quad \text{for} \quad x \in (-\pi, \pi)$, extended periodically with period 2π (creating a repeating sawtooth pattern). 
 Since $f(x)$ is odd, its Fourier series contains only sine terms (all cosine coefficients $a_n = 0$):
 
@@ -248,7 +252,7 @@ $$
 This is a fantastic choice because the Fourier coefficients directly involve $\frac{1}{n^2}$, making the link to Basel explicit and visually compelling.  
 
 
-![fourier_x2_basel_3_repeats.gif](media/fourier_x2_basel_3_repeats.gif)  
+![fourier_x2_basel_loopforever.gif](media/fourier_x2_basel_loopforever.gif)  
 
 To plot the curve in Python, use the following code, [View `x_squared_Fourier.py`](Python/x_squared_Fourier.py).  
 
